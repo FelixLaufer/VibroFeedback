@@ -3,7 +3,7 @@ Vibro-tactile feedback prototype hardware and software to be coupled with inerti
 
 - ESP32 microprocessor
 - accessible via WiFi and BLE
-- controlling up to four vibration actuators (rotating mass motors, piezo-haptic actuators and audio-tactile exciters)
+- controlling up to four vibration actuators (rotating mass, piezo-haptic and audio-tactile)
 - Arduino / FreeRTOS firmware
 - C++ client API
 
